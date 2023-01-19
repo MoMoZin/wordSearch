@@ -1,0 +1,23 @@
+{
+  "name": "wordsearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoMoZin/wordSearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoMoZin/wordSearch/issues"
+  },
+  "homepage": "https://github.com/MoMoZin/wordSearch#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
